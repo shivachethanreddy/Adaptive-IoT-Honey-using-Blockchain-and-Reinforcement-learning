@@ -111,3 +111,18 @@ attack_type,
 previous_hash,
 current_hash
 }
+Ensures tamper-proof logs and traceability.
+
+---
+
+
+## 📊 Evaluation
+
+- Detection accuracy  
+- Response time  
+- System stability  
+- False positives  
+
+---
+## ⭐ Highlight
+Real IoT hacking + Real-time AI defense using low-cost hardware.
