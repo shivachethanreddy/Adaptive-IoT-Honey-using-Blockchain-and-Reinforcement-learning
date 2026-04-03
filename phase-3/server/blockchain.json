@@ -1,0 +1,931 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-03-31 00:15:12.549623",
+    "event": "GENESIS",
+    "data": {
+      "message": "Month 3 \u2014 RL agent active"
+    },
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "5be0e06da44d72d96a4646ed8e5959d356b269d04d23d664eb14aa47b4b6cbc9"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-03-31 00:16:16.111299",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": -1.0,
+      "device": "esp32"
+    },
+    "prev_hash": "5be0e06da44d72d96a4646ed8e5959d356b269d04d23d664eb14aa47b4b6cbc9",
+    "hash": "ae7210d1858c17953b6d24d8ef64ccdb4903459090efe60744558b0d79b2c577"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-03-31 00:16:19.794024",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": -1.0,
+      "device": "esp32"
+    },
+    "prev_hash": "ae7210d1858c17953b6d24d8ef64ccdb4903459090efe60744558b0d79b2c577",
+    "hash": "00402bf966a65686aaa616351dcc9625c61fa3c1f0eb71616c72498dedb80a64"
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-03-31 00:16:22.942535",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": -1.0,
+      "device": "esp32"
+    },
+    "prev_hash": "00402bf966a65686aaa616351dcc9625c61fa3c1f0eb71616c72498dedb80a64",
+    "hash": "524d64301df93efd80454c223bbb4a74780d02b1969593bed5d1278c17a617f1"
+  },
+  {
+    "index": 4,
+    "timestamp": "2026-03-31 00:16:26.556938",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": -1.0,
+      "device": "esp32"
+    },
+    "prev_hash": "524d64301df93efd80454c223bbb4a74780d02b1969593bed5d1278c17a617f1",
+    "hash": "f7cd675b7bb873682f87afadd9070b9cace6b1e474d2d4432606bb4db51762e3"
+  },
+  {
+    "index": 5,
+    "timestamp": "2026-03-31 00:16:29.957314",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 105.45,
+      "device": "esp32"
+    },
+    "prev_hash": "f7cd675b7bb873682f87afadd9070b9cace6b1e474d2d4432606bb4db51762e3",
+    "hash": "d1af53e080815c8efbf4afb7340a941cde2017cc854ea0a3706514b1001dbe12"
+  },
+  {
+    "index": 6,
+    "timestamp": "2026-03-31 00:16:33.072905",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": -1.0,
+      "device": "esp32"
+    },
+    "prev_hash": "d1af53e080815c8efbf4afb7340a941cde2017cc854ea0a3706514b1001dbe12",
+    "hash": "e80530dd3e384198d32c38049c56a8e5d8329508e6fd16fb8fe2a2c04dc185ef"
+  },
+  {
+    "index": 7,
+    "timestamp": "2026-03-31 00:16:36.387710",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "e80530dd3e384198d32c38049c56a8e5d8329508e6fd16fb8fe2a2c04dc185ef",
+    "hash": "4ef3b4350f9d7fa5168524b19340637ec3776faafd7809dbac1996c3fda36f9c"
+  },
+  {
+    "index": 8,
+    "timestamp": "2026-03-31 00:16:39.883695",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "4ef3b4350f9d7fa5168524b19340637ec3776faafd7809dbac1996c3fda36f9c",
+    "hash": "15844051c8b7abee85517d02871d7025a7a70f1579153caa05864f2ac7840b0b"
+  },
+  {
+    "index": 9,
+    "timestamp": "2026-03-31 00:16:43.764410",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "15844051c8b7abee85517d02871d7025a7a70f1579153caa05864f2ac7840b0b",
+    "hash": "40b257fa45f4776a66283d05977c1b16dbdde4215ab1bbab58d60334e6511f32"
+  },
+  {
+    "index": 10,
+    "timestamp": "2026-03-31 00:16:46.852472",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.72,
+      "device": "esp32"
+    },
+    "prev_hash": "40b257fa45f4776a66283d05977c1b16dbdde4215ab1bbab58d60334e6511f32",
+    "hash": "b21539fbf46de9877979441612bae743894ef8a08cf192606a34a076cb596760"
+  },
+  {
+    "index": 11,
+    "timestamp": "2026-03-31 00:16:48.394712",
+    "event": "RL_DECISION",
+    "data": {
+      "attacker_ip": "172.20.10.6",
+      "decision": "allow",
+      "state": 6,
+      "distance": -99
+    },
+    "prev_hash": "b21539fbf46de9877979441612bae743894ef8a08cf192606a34a076cb596760",
+    "hash": "21d27b8f45ce9d12a9a0df7897ad5f394d9ba1a7b54f0ae1ae222db0d7e954d6"
+  },
+  {
+    "index": 12,
+    "timestamp": "2026-03-31 00:16:49.117771",
+    "event": "RL_DECISION",
+    "data": {
+      "attacker_ip": "172.20.10.6",
+      "decision": "allow",
+      "state": 6,
+      "distance": -1
+    },
+    "prev_hash": "21d27b8f45ce9d12a9a0df7897ad5f394d9ba1a7b54f0ae1ae222db0d7e954d6",
+    "hash": "5816a61528bf970410311dc9016245061fa2bf509c98cfc1efc5f03721e9fc55"
+  },
+  {
+    "index": 13,
+    "timestamp": "2026-03-31 00:16:49.745224",
+    "event": "RL_DECISION",
+    "data": {
+      "attacker_ip": "172.20.10.6",
+      "decision": "allow",
+      "state": 6,
+      "distance": 9999
+    },
+    "prev_hash": "5816a61528bf970410311dc9016245061fa2bf509c98cfc1efc5f03721e9fc55",
+    "hash": "71c6fca9bfa85b0b84550a8cbfce101951bc6d53704e67a437c977be6f608574"
+  },
+  {
+    "index": 14,
+    "timestamp": "2026-03-31 00:16:49.942362",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "71c6fca9bfa85b0b84550a8cbfce101951bc6d53704e67a437c977be6f608574",
+    "hash": "7f91b864d2a2f313259acdcaa838b13463595178c1ec891980e7aaa9c4fa39e0"
+  },
+  {
+    "index": 15,
+    "timestamp": "2026-03-31 00:16:50.353654",
+    "event": "RL_DECISION",
+    "data": {
+      "attacker_ip": "172.20.10.6",
+      "decision": "allow",
+      "state": 6,
+      "distance": 5000
+    },
+    "prev_hash": "7f91b864d2a2f313259acdcaa838b13463595178c1ec891980e7aaa9c4fa39e0",
+    "hash": "d808be1589c0872916388c4d3df564da99c0113effd9bbdee74ba8e3d6a1a490"
+  },
+  {
+    "index": 16,
+    "timestamp": "2026-03-31 00:16:51.021634",
+    "event": "RL_DECISION",
+    "data": {
+      "attacker_ip": "172.20.10.6",
+      "decision": "allow",
+      "state": 6,
+      "distance": 0.0001
+    },
+    "prev_hash": "d808be1589c0872916388c4d3df564da99c0113effd9bbdee74ba8e3d6a1a490",
+    "hash": "40b7c400a79538c0200fe0893322bff8de5143ae0fc9fcb01f67364ded0b60a2"
+  },
+  {
+    "index": 17,
+    "timestamp": "2026-03-31 00:16:51.705407",
+    "event": "RL_DECISION",
+    "data": {
+      "attacker_ip": "172.20.10.6",
+      "decision": "allow",
+      "state": 6,
+      "distance": 450
+    },
+    "prev_hash": "40b7c400a79538c0200fe0893322bff8de5143ae0fc9fcb01f67364ded0b60a2",
+    "hash": "67e6125a234e12dba70cdc9e147012e98be53d8d04d1e04fa98ec53822b416d7"
+  },
+  {
+    "index": 18,
+    "timestamp": "2026-03-31 00:16:53.280285",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "67e6125a234e12dba70cdc9e147012e98be53d8d04d1e04fa98ec53822b416d7",
+    "hash": "6bd5e26aa601c5df4df134b8ca94679abd08f56a3f0d770a2371570f6722aa7c"
+  },
+  {
+    "index": 19,
+    "timestamp": "2026-03-31 00:16:55.364128",
+    "event": "RL_DECISION",
+    "data": {
+      "attacker_ip": "172.20.10.6",
+      "decision": "block",
+      "state": 2,
+      "distance": 24.5
+    },
+    "prev_hash": "6bd5e26aa601c5df4df134b8ca94679abd08f56a3f0d770a2371570f6722aa7c",
+    "hash": "12a2c90189650582f97b1c34d5a522ca596564e30ae3d099ca6efa4fb093a532"
+  },
+  {
+    "index": 20,
+    "timestamp": "2026-03-31 00:16:55.366793",
+    "event": "IP_BLOCKED",
+    "data": {
+      "ip": "172.20.10.6",
+      "reason": "rl_agent_auto_block",
+      "time": "2026-03-31 00:16:55.364128"
+    },
+    "prev_hash": "12a2c90189650582f97b1c34d5a522ca596564e30ae3d099ca6efa4fb093a532",
+    "hash": "fd08f714aad4719d570fac912f801d849d383c008bccda2e5bc7aebf9a3250e1"
+  },
+  {
+    "index": 21,
+    "timestamp": "2026-03-31 00:16:56.453336",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "fd08f714aad4719d570fac912f801d849d383c008bccda2e5bc7aebf9a3250e1",
+    "hash": "a7b1b14b7aea0d547debe2fabe729596aee58da8ac01c655dfdde7680df1ebfd"
+  },
+  {
+    "index": 22,
+    "timestamp": "2026-03-31 00:16:59.734495",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.72,
+      "device": "esp32"
+    },
+    "prev_hash": "a7b1b14b7aea0d547debe2fabe729596aee58da8ac01c655dfdde7680df1ebfd",
+    "hash": "86fd964478cdaadc6a613ccee69bea67f0fc57e9cfa208a9efd40d61b73dbe99"
+  },
+  {
+    "index": 23,
+    "timestamp": "2026-03-31 00:17:02.855053",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "86fd964478cdaadc6a613ccee69bea67f0fc57e9cfa208a9efd40d61b73dbe99",
+    "hash": "5b427379b7e814174de494d9f871f1686c39b16ce7145a92de0f1a31faa92159"
+  },
+  {
+    "index": 24,
+    "timestamp": "2026-03-31 00:17:06.182924",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "5b427379b7e814174de494d9f871f1686c39b16ce7145a92de0f1a31faa92159",
+    "hash": "936ebb9c85928c9f4ba3cf721bccf5fa87a596e16834fbfa1ae264b78421f7dc"
+  },
+  {
+    "index": 25,
+    "timestamp": "2026-03-31 00:17:09.562819",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "936ebb9c85928c9f4ba3cf721bccf5fa87a596e16834fbfa1ae264b78421f7dc",
+    "hash": "c5999fb3b3996c0b0167205c5557accda0cba7c3fc237f783a36b5a05b429cf4"
+  },
+  {
+    "index": 26,
+    "timestamp": "2026-03-31 00:17:12.652336",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "c5999fb3b3996c0b0167205c5557accda0cba7c3fc237f783a36b5a05b429cf4",
+    "hash": "cb2d11bd7d83fe1fbef168551bcf701c0cd89a8c23c4193f6eecf6ad38fda71b"
+  },
+  {
+    "index": 27,
+    "timestamp": "2026-03-31 00:17:16.015298",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "cb2d11bd7d83fe1fbef168551bcf701c0cd89a8c23c4193f6eecf6ad38fda71b",
+    "hash": "cc4ad6feb2fa15b6b47a9a4708414e222af89f0fc17b186b6bcb3dddc1e82293"
+  },
+  {
+    "index": 28,
+    "timestamp": "2026-03-31 00:17:19.492034",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "cc4ad6feb2fa15b6b47a9a4708414e222af89f0fc17b186b6bcb3dddc1e82293",
+    "hash": "cf851586c093d6c0a9344d1d3e71a9a4163240f98911e007474faf09f54df193"
+  },
+  {
+    "index": 29,
+    "timestamp": "2026-03-31 00:17:22.772656",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "cf851586c093d6c0a9344d1d3e71a9a4163240f98911e007474faf09f54df193",
+    "hash": "9934df88453b48288aded826c5cd491212eb15704e480795ec8a58ce915b6712"
+  },
+  {
+    "index": 30,
+    "timestamp": "2026-03-31 00:17:25.848629",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "9934df88453b48288aded826c5cd491212eb15704e480795ec8a58ce915b6712",
+    "hash": "37bf6cdfbfe3f7abb54d8a90fec0ba5379f0650d786eb7b4e9f210023406dcda"
+  },
+  {
+    "index": 31,
+    "timestamp": "2026-03-31 00:17:28.942384",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "37bf6cdfbfe3f7abb54d8a90fec0ba5379f0650d786eb7b4e9f210023406dcda",
+    "hash": "d9891b704365c4ab2019e81e6af691471cb9ba4cd0536dd65aa05c11d71f12e8"
+  },
+  {
+    "index": 32,
+    "timestamp": "2026-03-31 00:17:32.042644",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "d9891b704365c4ab2019e81e6af691471cb9ba4cd0536dd65aa05c11d71f12e8",
+    "hash": "e949b1d5d317ad34b123ce8e1f10036d0322557f1a2df907a8d336122bca89ad"
+  },
+  {
+    "index": 33,
+    "timestamp": "2026-03-31 00:17:35.112682",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.13,
+      "device": "esp32"
+    },
+    "prev_hash": "e949b1d5d317ad34b123ce8e1f10036d0322557f1a2df907a8d336122bca89ad",
+    "hash": "b8a9a922c47f890555e4465e2eb02c434a0e80e31f1af1fd86e90de89609595d"
+  },
+  {
+    "index": 34,
+    "timestamp": "2026-03-31 00:17:38.192265",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.05,
+      "device": "esp32"
+    },
+    "prev_hash": "b8a9a922c47f890555e4465e2eb02c434a0e80e31f1af1fd86e90de89609595d",
+    "hash": "c9debfd075f3a7868886e763aeedc80fb48a448a4191fe1019b0964783dea384"
+  },
+  {
+    "index": 35,
+    "timestamp": "2026-03-31 00:17:41.812266",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "c9debfd075f3a7868886e763aeedc80fb48a448a4191fe1019b0964783dea384",
+    "hash": "c7ebb508815d7f62496804328c7e7a650669c015e47201128b7025ee79c13fb0"
+  },
+  {
+    "index": 36,
+    "timestamp": "2026-03-31 00:17:45.508829",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.05,
+      "device": "esp32"
+    },
+    "prev_hash": "c7ebb508815d7f62496804328c7e7a650669c015e47201128b7025ee79c13fb0",
+    "hash": "c4c7cde9e838847cc54df7c61c2db3210f11146da90f3ed97866e4b90a8143fa"
+  },
+  {
+    "index": 37,
+    "timestamp": "2026-03-31 00:17:48.883012",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "c4c7cde9e838847cc54df7c61c2db3210f11146da90f3ed97866e4b90a8143fa",
+    "hash": "4c2df5175f5c5c96e6d973aee706a05e0949a5c992b8764e57a0befd224f5f4a"
+  },
+  {
+    "index": 38,
+    "timestamp": "2026-03-31 00:17:52.386030",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "4c2df5175f5c5c96e6d973aee706a05e0949a5c992b8764e57a0befd224f5f4a",
+    "hash": "634708796568e21851318c1215ccc9f98ee19453d6daf0a5d66b74e182abd253"
+  },
+  {
+    "index": 39,
+    "timestamp": "2026-03-31 00:17:55.950405",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "634708796568e21851318c1215ccc9f98ee19453d6daf0a5d66b74e182abd253",
+    "hash": "1105b6a55d2b52791cd872b5e92d216418dd776b9e93f2105a3298e99bdebca1"
+  },
+  {
+    "index": 40,
+    "timestamp": "2026-03-31 00:17:59.381215",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "1105b6a55d2b52791cd872b5e92d216418dd776b9e93f2105a3298e99bdebca1",
+    "hash": "fd6de0774f80b6dd3ac59b89dc5b30ebc41f773a7b75012320cf3b92ec54a5cf"
+  },
+  {
+    "index": 41,
+    "timestamp": "2026-03-31 00:18:02.707500",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "fd6de0774f80b6dd3ac59b89dc5b30ebc41f773a7b75012320cf3b92ec54a5cf",
+    "hash": "a825861099d5b9a31aad29473f7755b399892787ea571f4b4e668dde87681d2f"
+  },
+  {
+    "index": 42,
+    "timestamp": "2026-03-31 00:18:06.083513",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.05,
+      "device": "esp32"
+    },
+    "prev_hash": "a825861099d5b9a31aad29473f7755b399892787ea571f4b4e668dde87681d2f",
+    "hash": "67699adad535201f0a8fd968fb19f5a7fdb7fc496fdfc4a233746453702efadf"
+  },
+  {
+    "index": 43,
+    "timestamp": "2026-03-31 00:18:09.596463",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "67699adad535201f0a8fd968fb19f5a7fdb7fc496fdfc4a233746453702efadf",
+    "hash": "02ef13088eb7d03a86f66ab006eef94c3c78a9d81b383f5a9f4aee2f83c277e9"
+  },
+  {
+    "index": 44,
+    "timestamp": "2026-03-31 00:18:13.153157",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "02ef13088eb7d03a86f66ab006eef94c3c78a9d81b383f5a9f4aee2f83c277e9",
+    "hash": "68142ca0e21007f0f615862700b531c868aabde149bae9fe64db5509d83784b3"
+  },
+  {
+    "index": 45,
+    "timestamp": "2026-03-31 00:18:16.533034",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "68142ca0e21007f0f615862700b531c868aabde149bae9fe64db5509d83784b3",
+    "hash": "7b2e09cc4876748c760e23e37fc35b058d695ddfcb9681373e9ede1195c134a5"
+  },
+  {
+    "index": 46,
+    "timestamp": "2026-03-31 00:18:19.976618",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.05,
+      "device": "esp32"
+    },
+    "prev_hash": "7b2e09cc4876748c760e23e37fc35b058d695ddfcb9681373e9ede1195c134a5",
+    "hash": "c28ac03ce48baa2d2f560e881a630ff48826fb37564dd01947ad1d7158ecca27"
+  },
+  {
+    "index": 47,
+    "timestamp": "2026-03-31 00:18:23.291736",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "c28ac03ce48baa2d2f560e881a630ff48826fb37564dd01947ad1d7158ecca27",
+    "hash": "26f87213911d66546559e8851ebdb0d88790056a14c85f9ff18a59096b639170"
+  },
+  {
+    "index": 48,
+    "timestamp": "2026-03-31 00:18:26.669825",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.05,
+      "device": "esp32"
+    },
+    "prev_hash": "26f87213911d66546559e8851ebdb0d88790056a14c85f9ff18a59096b639170",
+    "hash": "94b3a58c2214326ad84634704c5904133f08cb8a4af86b06d70fb33fbcbecbf1"
+  },
+  {
+    "index": 49,
+    "timestamp": "2026-03-31 00:18:29.845976",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "94b3a58c2214326ad84634704c5904133f08cb8a4af86b06d70fb33fbcbecbf1",
+    "hash": "9d39a00b16c494c2fef46d7a088d30981d710484e9e5f668ab19e9df005bec2f"
+  },
+  {
+    "index": 50,
+    "timestamp": "2026-03-31 00:18:33.120311",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "9d39a00b16c494c2fef46d7a088d30981d710484e9e5f668ab19e9df005bec2f",
+    "hash": "09d5dc4a87ef6f631199212949e2095202e46a88420ea9edba96175d9e6e1817"
+  },
+  {
+    "index": 51,
+    "timestamp": "2026-03-31 00:18:36.500068",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "09d5dc4a87ef6f631199212949e2095202e46a88420ea9edba96175d9e6e1817",
+    "hash": "4212cb6facfcabf82a7808224837479e1d70c85ca93a9398b80e2ac1cb5c54f1"
+  },
+  {
+    "index": 52,
+    "timestamp": "2026-03-31 00:18:39.880846",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.05,
+      "device": "esp32"
+    },
+    "prev_hash": "4212cb6facfcabf82a7808224837479e1d70c85ca93a9398b80e2ac1cb5c54f1",
+    "hash": "63c05546462c7d5e47c3fef62540cd028a167849b8a3cac54bc5cfe655489945"
+  },
+  {
+    "index": 53,
+    "timestamp": "2026-03-31 00:18:43.264910",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.06,
+      "device": "esp32"
+    },
+    "prev_hash": "63c05546462c7d5e47c3fef62540cd028a167849b8a3cac54bc5cfe655489945",
+    "hash": "9b5bab0622364f46104199fb00b61a3710cf5ef439857694d2c9edea3a062a9a"
+  },
+  {
+    "index": 54,
+    "timestamp": "2026-03-31 00:18:46.963153",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "9b5bab0622364f46104199fb00b61a3710cf5ef439857694d2c9edea3a062a9a",
+    "hash": "b6d5c05a6593f7651f954befc741ff250e3fb1ca857c314c5359f9396f1c792a"
+  },
+  {
+    "index": 55,
+    "timestamp": "2026-03-31 00:18:50.324743",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "b6d5c05a6593f7651f954befc741ff250e3fb1ca857c314c5359f9396f1c792a",
+    "hash": "819e6ad54409eb9a3fb7cdc8d5806c4990c21b4579ebe1ff8d2ff55bd97f8633"
+  },
+  {
+    "index": 56,
+    "timestamp": "2026-03-31 00:18:53.695320",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 4.05,
+      "device": "esp32"
+    },
+    "prev_hash": "819e6ad54409eb9a3fb7cdc8d5806c4990c21b4579ebe1ff8d2ff55bd97f8633",
+    "hash": "7076af204c5fb8a60352aa5ef65ec43942ba6e1032dd979495b63eb690f657f3"
+  },
+  {
+    "index": 57,
+    "timestamp": "2026-03-31 00:18:57.080840",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "7076af204c5fb8a60352aa5ef65ec43942ba6e1032dd979495b63eb690f657f3",
+    "hash": "3ef9ce7fac403f7b4a668b1447fab50fa240de1a0176f6bda85fa6e2af9c3142"
+  },
+  {
+    "index": 58,
+    "timestamp": "2026-03-31 00:19:00.200939",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.96,
+      "device": "esp32"
+    },
+    "prev_hash": "3ef9ce7fac403f7b4a668b1447fab50fa240de1a0176f6bda85fa6e2af9c3142",
+    "hash": "adf0573dfa338499b8e0afb27af891253a6a4862b02401078135f007520d23cb"
+  },
+  {
+    "index": 59,
+    "timestamp": "2026-03-31 00:19:03.296678",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.96,
+      "device": "esp32"
+    },
+    "prev_hash": "adf0573dfa338499b8e0afb27af891253a6a4862b02401078135f007520d23cb",
+    "hash": "b29735a5c3d6b70c7c64bc0d43379b5c3fdbbc80e3bb9b253400a3c69fd28a1e"
+  },
+  {
+    "index": 60,
+    "timestamp": "2026-03-31 00:19:06.916620",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.98,
+      "device": "esp32"
+    },
+    "prev_hash": "b29735a5c3d6b70c7c64bc0d43379b5c3fdbbc80e3bb9b253400a3c69fd28a1e",
+    "hash": "46bd0deb160ae0a7ee05ddbd356d9d6b951fcee02e3e9fa96b8ea49f35dc69b7"
+  },
+  {
+    "index": 61,
+    "timestamp": "2026-03-31 00:19:10.597149",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.96,
+      "device": "esp32"
+    },
+    "prev_hash": "46bd0deb160ae0a7ee05ddbd356d9d6b951fcee02e3e9fa96b8ea49f35dc69b7",
+    "hash": "ec364ae8b946e59c40b6226391648792f6726b03ec0b7da5b00c5566b40b885f"
+  },
+  {
+    "index": 62,
+    "timestamp": "2026-03-31 00:19:13.978651",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.96,
+      "device": "esp32"
+    },
+    "prev_hash": "ec364ae8b946e59c40b6226391648792f6726b03ec0b7da5b00c5566b40b885f",
+    "hash": "16202d8413e091df3aa5425daf89cccd3e03b819b95ac60649f859fcb2b78382"
+  },
+  {
+    "index": 63,
+    "timestamp": "2026-03-31 00:19:17.716086",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.64,
+      "device": "esp32"
+    },
+    "prev_hash": "16202d8413e091df3aa5425daf89cccd3e03b819b95ac60649f859fcb2b78382",
+    "hash": "ac62b2f9d5814814ebba62781d2d78cab69cf70d0936ff902f1c739ac9d9a907"
+  },
+  {
+    "index": 64,
+    "timestamp": "2026-03-31 00:19:21.352612",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.28,
+      "device": "esp32"
+    },
+    "prev_hash": "ac62b2f9d5814814ebba62781d2d78cab69cf70d0936ff902f1c739ac9d9a907",
+    "hash": "79ce71febed2dcf804da180c33a94bb463f4efa23c42dfec260454082172bb56"
+  },
+  {
+    "index": 65,
+    "timestamp": "2026-03-31 00:19:25.041017",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "79ce71febed2dcf804da180c33a94bb463f4efa23c42dfec260454082172bb56",
+    "hash": "dc42ff5644c24f7b41739a0f5d8899cd2bddfdfd5be5d514c5e577659b143292"
+  },
+  {
+    "index": 66,
+    "timestamp": "2026-03-31 00:19:28.411300",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "dc42ff5644c24f7b41739a0f5d8899cd2bddfdfd5be5d514c5e577659b143292",
+    "hash": "a6c7151b391ee925d7b710af47337c8dde5d3013b9e8c7343627ac46af3f9c72"
+  },
+  {
+    "index": 67,
+    "timestamp": "2026-03-31 00:19:31.500138",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "a6c7151b391ee925d7b710af47337c8dde5d3013b9e8c7343627ac46af3f9c72",
+    "hash": "740b863d4b03d29a51b950d0e97df88412b74d68e689b649a9c7da9b26f099aa"
+  },
+  {
+    "index": 68,
+    "timestamp": "2026-03-31 00:19:34.909654",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "740b863d4b03d29a51b950d0e97df88412b74d68e689b649a9c7da9b26f099aa",
+    "hash": "66938c92c418dd37de80123e9d4bc014fcf34f2d03182835bad6a105849d45ee"
+  },
+  {
+    "index": 69,
+    "timestamp": "2026-03-31 00:19:38.346174",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "66938c92c418dd37de80123e9d4bc014fcf34f2d03182835bad6a105849d45ee",
+    "hash": "f98b36750f317208bc2c892d13df286c6d2ec2daa3c47e732e536acab4da49fa"
+  },
+  {
+    "index": 70,
+    "timestamp": "2026-03-31 00:19:41.630102",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.28,
+      "device": "esp32"
+    },
+    "prev_hash": "f98b36750f317208bc2c892d13df286c6d2ec2daa3c47e732e536acab4da49fa",
+    "hash": "3c32eaccad14aa70b03493760e7567ed80de51d68a8aa9cb0a94457866a5842e"
+  },
+  {
+    "index": 71,
+    "timestamp": "2026-03-31 00:19:45.066618",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "3c32eaccad14aa70b03493760e7567ed80de51d68a8aa9cb0a94457866a5842e",
+    "hash": "730d38308a7a4ad4bf58ebc0177789113ae7139f2f7b50ca49cc1d76031583f6"
+  },
+  {
+    "index": 72,
+    "timestamp": "2026-03-31 00:19:48.149564",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "730d38308a7a4ad4bf58ebc0177789113ae7139f2f7b50ca49cc1d76031583f6",
+    "hash": "5b6520d97105e162bb52ff75bb72d9fea2ce69f30a6490c41f98246d73b1016a"
+  },
+  {
+    "index": 73,
+    "timestamp": "2026-03-31 00:19:51.451153",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "5b6520d97105e162bb52ff75bb72d9fea2ce69f30a6490c41f98246d73b1016a",
+    "hash": "3c9f78c2807bf6fbaeed556b65da5b09e434beb5494b0b2e742901aefd3b5684"
+  },
+  {
+    "index": 74,
+    "timestamp": "2026-03-31 00:19:55.189451",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "3c9f78c2807bf6fbaeed556b65da5b09e434beb5494b0b2e742901aefd3b5684",
+    "hash": "4dbe8073b944e1a7c11555494d8e205666534116fcfb3c1e12e9db8ed6b68a1e"
+  },
+  {
+    "index": 75,
+    "timestamp": "2026-03-31 00:19:58.830362",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.3,
+      "device": "esp32"
+    },
+    "prev_hash": "4dbe8073b944e1a7c11555494d8e205666534116fcfb3c1e12e9db8ed6b68a1e",
+    "hash": "0bd1184e3de777fb2e31c6563d585c1a7972f556ee84a2135cc7d650ee8326ab"
+  },
+  {
+    "index": 76,
+    "timestamp": "2026-03-31 00:20:02.210596",
+    "event": "SENSOR_DATA",
+    "data": {
+      "ip": "172.20.10.5",
+      "distance": 3.71,
+      "device": "esp32"
+    },
+    "prev_hash": "0bd1184e3de777fb2e31c6563d585c1a7972f556ee84a2135cc7d650ee8326ab",
+    "hash": "4975d8e6d308c4a5dba0b4de5179b4f1ec9bab8aea623e3af0f77b4039625612"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "ip": "172.20.10.6",
+    "rate": 1,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 2,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 3,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 4,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 1,
+    "anomaly": 1,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 5,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 6,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 7,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 8,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 9,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 10,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 11,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 12,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 13,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 14,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 15,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 16,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 17,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 2,
+    "anomaly": 1,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 18,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 19,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 20,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 21,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 22,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 23,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 24,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 25,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 26,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 27,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 28,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 29,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 30,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 31,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 3,
+    "anomaly": 1,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.6",
+    "rate": 32,
+    "anomaly": 0,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 1,
+    "attack": "FLOOD"
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 4,
+    "anomaly": 1,
+    "repeat": 0,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 5,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 6,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 7,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 8,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 9,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 10,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 11,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 12,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 13,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 14,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 15,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 16,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 17,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  },
+  {
+    "ip": "172.20.10.5",
+    "rate": 18,
+    "anomaly": 1,
+    "repeat": 1,
+    "known": 0,
+    "is_attack": 0,
+    "attack": null
+  }
+]
